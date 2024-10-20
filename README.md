@@ -1,19 +1,14 @@
-# -Northwind-Python--SQL-Analysis-Power-BI-Dashboard
- Northwind-Python- SQL-Analysis-Power BI-Dashboard
+
 # Northwind Database Analysis with SQL, Power BI, and Python
 
 ## Project Overview
 This project involves analyzing the Northwind database using SQL queries, creating visualizations in Power BI, and conducting detailed analyses with Python. The goal is to gain insights into the dataset and present the findings effectively.
 
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
 - [SQL Analysis](#sql-analysis)
 - [Power BI Visualizations](#power-bi-visualizations)
 - [Python Analysis](#python-analysis)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 1. **Download the Northwind Database**
@@ -70,5 +65,3 @@ The Python analysis focuses on:
 ## Contributing
 If you would like to contribute to this project, please feel free to create a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
